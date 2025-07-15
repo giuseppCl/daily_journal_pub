@@ -5,7 +5,6 @@ A minimalist app to record your daily thoughts, experiences and goals.
 ## ✨ Functions
 
 - 📅 **Daily entries**: Reflect on your day with simple, structured journal entries.
-- 📻 **Offline radio**: Listen to music while you write. The integrated offline radio offers a selection of preset songs. You can also add up to 3 of your own songs to personalise your journaling session.
 ## ⚙️ Customisable sections
 
 You can add up to three customised sections for each category using the cogwheel icon (⚙️). These sections can be applied either globally (for all days) or individually (for individual days).
